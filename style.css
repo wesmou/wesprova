@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: aqua;
+}
+
+.titulo{
+    color: rgb(145, 240, 240);
+    text-align: center;
+}
+.paragrafo{
+    color: rgb(145, 240, 240);
+    text-align:center
+}
+.botao{
+    text-align: center;
+}
+.foto{
+    width: 30%;
+}
+.img{
+    text-align: center;
+}
